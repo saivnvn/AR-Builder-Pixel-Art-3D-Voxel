@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="logo.png" alt="AR Builder Logo" width="140">
+  <img src="logo.png" alt="AR Builder: Pixel Art 3D Voxel Logo" width="140">
 </p>
 
 <h1 align="center">AR Builder: Pixel Art 3D Voxel</h1>
 
 <p align="center">
-  Build, edit, and explore colorful 3D voxel creations in Augmented Reality and 3D Mode.
+  <strong>Create, edit, explore, and export colorful 3D voxel art in AR or 3D Mode.</strong>
 </p>
 
 <p align="center">
-  <strong>AR • Voxel Art • Pixel Art • 3D Modeling • Offline</strong>
+  AR • Voxel Art • Pixel Art • 3D Creation • Offline
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/id6807085822">
+    <strong>Download on the App Store</strong>
+  </a>
 </p>
 
 ---
@@ -20,122 +26,204 @@
 
 ## About
 
-**AR Builder** is a creative voxel and pixel-art app for iPhone and iPad that lets you build colorful 3D models using both **Augmented Reality** and a dedicated **3D editing mode**.
+**AR Builder: Pixel Art 3D Voxel** is a creative 3D voxel-building app for **iPhone and iPad**.
 
-Start with a blank project or choose an editable template, then build your creation cube by cube using flexible tools such as **Pencil**, **Line**, and **Rectangle**.
+Build colorful voxel and pixel-art creations from scratch or start with an editable template. Use flexible tools such as **Pencil, Line, and Rectangle**, work layer by layer, edit your models in AR or 3D, and export your finished creations as **MP4 videos or USDZ 3D models**.
 
-In **AR Mode**, place your workspace on a real-world surface such as a table or floor, walk around your creation, and edit it naturally from different angles.
+Choose the way you want to create:
 
-Prefer creating without keeping the camera active? Switch to **3D Mode** for a more comfortable building experience while helping reduce battery usage.
+* **AR Mode** — Build directly in the real world, walk around your model, and edit it naturally from different angles.
+* **3D Mode** — Create and edit without keeping the camera active, ideal for comfortable longer building sessions.
 
-## Features
+Everything is designed around a simple idea: **turn voxel building into a creative 3D experience you can use anywhere.**
 
-- Build 3D voxel and pixel-art creations
-- Create projects from scratch or editable templates
-- Build with **Pencil**, **Line**, and **Rectangle**
-- Tap or drag with Pencil to place multiple blocks quickly
-- Preview lines and rectangular areas before placing blocks
-- Use **Layer Build Mode** to lock a specific height
-- Remove individual blocks, full lines, or rectangular areas
-- Preview blocks before removing multiple cubes
-- Undo and Redo changes
-- Customize your creations with different colors
-- Build directly in the real world with **AR Mode**
-- Build without the camera using **3D Mode**
-- Walk around and explore creations in 360°
-- Move, rotate, and scale projects in AR
-- Relocate creations between real-world surfaces
-- Measure creations using an **AR ruler**
-- Save, load, and manage multiple projects
-- Export smooth **360° MP4 videos**
-- Export voxel creations as real **3D USDZ models**
-- Works fully offline
+## Highlights
+
+* Build colorful **3D voxel and pixel-art models**
+* Create from a blank workspace or editable templates
+* Build with **Pencil, Line, and Rectangle**
+* Tap or drag to place blocks quickly
+* Preview lines and rectangular areas before placement
+* Edit specific height levels with **Layer Build Mode**
+* Remove individual blocks, lines, or rectangular areas
+* Preview multiple blocks before deleting them
+* Recolor creations with different colors
+* Undo and Redo your changes
+* Build directly in your surroundings with **AR Mode**
+* Create without the camera using **3D Mode**
+* Explore creations from every angle
+* Move, rotate, and scale projects in AR
+* Relocate creations to different real-world surfaces
+* Measure models using the built-in **AR ruler**
+* Save, load, and manage multiple projects
+* Export smooth **360° MP4 videos**
+* Export creations as real **3D USDZ models**
+* Work fully offline
 
 ## AR Mode
 
-AR Mode turns the real world into your creative workspace.
+Turn the real world into your creative workspace.
 
-Find a horizontal surface, place the building area, and start creating directly in your surroundings.
+Detect a horizontal surface such as a table or floor, place your workspace, and start building directly in your surroundings.
 
-You can move around your model freely and view or edit it from different angles while maintaining its position in the real world.
+Your creation remains positioned in the real world, allowing you to physically move around it and naturally view or edit the model from different angles.
+
+### AR Mode includes
+
+* Real-world surface detection
+* AR workspace placement
+* 360° viewing around your creation
+* Building and editing from different angles
+* Move, rotate, and scale controls
+* Workspace relocation
+* AR measurement tools
 
 ## 3D Mode
 
-3D Mode provides a dedicated environment for building and editing voxel creations without requiring the camera to remain active.
+Prefer focusing entirely on your model?
 
-It is useful for longer editing sessions and provides a comfortable way to focus entirely on the model.
+**3D Mode** provides a dedicated environment for creating and editing voxel art without requiring the camera to remain active.
+
+Rotate your model, zoom in for detailed work, move around the workspace, and continue building comfortably during longer editing sessions.
+
+It is also a convenient way to work when AR is not needed.
+
+## Layer Editing
+
+Work on your voxel creation one layer at a time.
+
+Select a specific height layer and edit it precisely, making complex models easier to understand and modify.
+
+Layer-based editing is especially useful for:
+
+* Pixel-art style designs
+* Symmetrical models
+* Detailed structures
+* Large voxel creations
+* Precise block placement and removal
 
 ## Building Tools
 
 ### Pencil
 
-Place individual blocks precisely or drag continuously to build faster.
+Place individual voxel blocks with precision or **drag continuously** to build multiple blocks quickly.
 
 ### Line
 
-Create straight rows of voxel blocks with a preview before placement.
+Create straight rows of voxel blocks with a live preview before placement.
 
 ### Rectangle
 
-Quickly create larger rectangular shapes and areas using multiple blocks at once.
+Build larger rectangular areas quickly instead of placing every block individually.
 
 ### Layer Build Mode
 
-Lock construction to a specific height layer for cleaner and more precise voxel designs.
+Lock building to a specific height layer for cleaner and more precise designs.
 
 ## Break Tools
 
-Switch to **Break Mode** to edit or remove parts of your creation.
+Switch to **Break Mode** whenever you need to reshape or refine your creation.
 
 You can:
 
-- Remove individual blocks
-- Remove entire lines
-- Clear rectangular areas
-- Preview multiple blocks before deleting them
+* Remove individual blocks
+* Remove entire lines
+* Clear rectangular areas
+* Preview affected blocks before deleting them
+
+This makes it much faster to modify larger models without removing every cube one at a time.
+
+## Colors & Editing
+
+Customize your voxel creations with different colors while building.
+
+Combined with **Undo and Redo**, AR Builder makes it easy to experiment with shapes, colors, and designs without worrying about permanent mistakes.
+
+## Templates
+
+Don't want to start from an empty grid?
+
+Choose from editable voxel templates and use them as starting points for your own creations.
+
+Templates can be explored, modified, recolored, expanded, or transformed into completely new designs.
+
+## Save & Project Management
+
+Create more than one voxel project and return to your work whenever you want.
+
+AR Builder lets you:
+
+* Save projects locally
+* Load previous creations
+* Manage multiple projects
+* Continue editing later
+* Start new blank projects or templates
 
 ## Export
 
-When your creation is complete, you can export it in different formats.
+Turn your voxel creations into content you can keep, share, or use in other applications.
 
-### MP4 Video
+### 360° MP4 Video
 
-Create a smooth 360° rotating video of your voxel model, ready to save or share.
+Create a smooth rotating **360° MP4 video** of your voxel model.
 
-### USDZ
+Videos are ready to save to your device or share with others.
 
-Export your voxel creation as a real 3D **USDZ** model.
+### USDZ 3D Model
 
-USDZ files can be previewed directly on supported Apple devices and used with compatible 3D and AR applications.
+Export your voxel creation as a real **USDZ 3D model**.
+
+USDZ is Apple's 3D format and can be previewed on supported Apple devices or opened in compatible 3D and AR applications.
 
 ## Offline First
 
-AR Builder is designed to work fully offline.
+**AR Builder works fully offline.**
 
-Create, edit, save, and export your voxel projects anytime and anywhere without requiring an internet connection.
+You can build, edit, save, manage, and export your voxel projects without requiring an internet connection.
+
+Create wherever you are — at home, while traveling, or anywhere inspiration appears.
+
+## Built for iPhone & iPad
+
+AR Builder is designed for Apple devices and supports:
+
+* iPhone
+* iPad
+
+The interface and creative workflow are designed to work naturally across different screen sizes.
 
 ## Technology
 
 AR Builder is developed natively for Apple platforms using technologies including:
 
-- Swift
-- ARKit
-- RealityKit
-- iOS / iPadOS
-
-## Platform
-
-- iPhone
-- iPad
+* **Swift**
+* **ARKit**
+* **RealityKit**
+* **iOS**
+* **iPadOS**
 
 ## Privacy
 
 AR Builder is designed with privacy in mind.
 
-Your projects are created and stored locally on your device. Core building and editing features do not require an internet connection.
+Your voxel projects are created and stored locally on your device, and the core building and editing experience does not require an internet connection.
+
+## Download
+
+**AR Builder: Pixel Art 3D Voxel** is available for iPhone and iPad on the App Store.
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/id6807085822">
+    <strong>Download AR Builder on the App Store</strong>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Turn the real world into your canvas for 3D voxel pixel art.
+  <strong>Turn your ideas into colorful 3D voxel worlds.</strong>
+</p>
+
+<p align="center">
+  Build in AR. Create in 3D. Export and share.
 </p>
